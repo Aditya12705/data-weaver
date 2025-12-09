@@ -26,7 +26,7 @@ Does rain make you code more? Or does sunshine distract you?
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/data-weaver.git
+   git clone https://github.com/Aditya12705/data-weaver
    cd data-weaver
    ```
 
@@ -47,7 +47,11 @@ Does rain make you code more? Or does sunshine distract you?
 
 ## 📸 Screenshots
 
-*(Add screenshots here after running the app)*
+<img width="1919" height="874" alt="image" src="https://github.com/user-attachments/assets/5cf004f6-7ed5-48fe-ac02-40a748220855" />
+
+<img width="1919" height="868" alt="image" src="https://github.com/user-attachments/assets/92dee7cb-0b6f-4f16-9c11-ee6e49364c7b" />
+
+
 
 ## 🧠 How it Works
 
